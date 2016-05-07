@@ -1,0 +1,769 @@
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Antlr3.Runtime.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\EntityFramework.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Newtonsoft.Json.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Owin.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Optimization.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\TweetSharp.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\WebGrease.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.pdb
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Newtonsoft.Json.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Optimization.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\TweetSharp.pdb
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Antlr3.Runtime.pdb
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\EntityFramework.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+c:\users\sashinovitasari\documents\visual studio 2015\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Antlr3.Runtime.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\EntityFramework.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Newtonsoft.Json.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Owin.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.Optimization.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.WebPages.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\TweetSharp.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\WebGrease.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.pdb
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Newtonsoft.Json.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.Optimization.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.WebPages.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\TweetSharp.pdb
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Antlr3.Runtime.pdb
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\EntityFramework.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\MICKY YU\Desktop\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Antlr3.Runtime.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Newtonsoft.Json.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Owin.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Optimization.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\TweetSharp.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebGrease.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Newtonsoft.Json.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Optimization.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\TweetSharp.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Antlr3.Runtime.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.Properties.Resources.resources
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.GenerateResource.Cache
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebApplication4.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Antlr3.Runtime.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Newtonsoft.Json.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Owin.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Optimization.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\TweetSharp.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebGrease.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Newtonsoft.Json.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Optimization.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\TweetSharp.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Antlr3.Runtime.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.Properties.Resources.resources
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.GenerateResource.Cache
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Antlr3.Runtime.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Owin.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Optimization.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\TweetSharp.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\WebGrease.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.pdb
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Optimization.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\TweetSharp.pdb
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Antlr3.Runtime.pdb
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\csc.exe
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Antlr3.Runtime.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\EntityFramework.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Hammock.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Jmelosegui.Mvc.GoogleMap.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Newtonsoft.Json.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Owin.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.Optimization.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.WebPages.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\TweetSharp.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\WebGrease.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Hammock.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Hammock.ClientProfile.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Newtonsoft.Json.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.Optimization.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.WebPages.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\TweetSharp.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Antlr3.Runtime.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\EntityFramework.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\EntityFramework.SqlServer.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\obj\Debug\WebApplication4.Properties.Resources.resources
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.GenerateResource.Cache
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI-master\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Jmelosegui.Mvc.GoogleMap.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Jmelosegui.Mvc.GoogleMap.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\WebApplication4\WebApplication4\bin\Hammock.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\csc.exe
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\WebApplication4.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\WebApplication4.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Antlr3.Runtime.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\EntityFramework.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\EntityFramework.SqlServer.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Hammock.ClientProfile.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Hammock.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Jmelosegui.Mvc.GoogleMap.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Newtonsoft.Json.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Owin.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Helpers.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Mvc.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Optimization.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Razor.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.Razor.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\TweetSharp.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\WebGrease.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Hammock.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Hammock.ClientProfile.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Newtonsoft.Json.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Helpers.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Mvc.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Optimization.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Razor.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.Razor.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\TweetSharp.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Antlr3.Runtime.pdb
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\EntityFramework.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\EntityFramework.SqlServer.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\obj\Debug\WebApplication4.Properties.Resources.resources
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\obj\Debug\WebApplication4.csproj.GenerateResource.Cache
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\MICKY YU\Desktop\TubesTwitterAPI\src\WebApplication4\obj\Debug\WebApplication4.pdb
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\csc.exe
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\vbc.exe
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\WebApplication4.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\WebApplication4.pdb
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Antlr3.Runtime.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\EntityFramework.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Hammock.ClientProfile.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Hammock.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Jmelosegui.Mvc.GoogleMap.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Owin.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Helpers.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Mvc.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Optimization.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Razor.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\TweetSharp.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\WebGrease.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Hammock.pdb
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Hammock.ClientProfile.pdb
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Helpers.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Mvc.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Optimization.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.Razor.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\TweetSharp.pdb
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Antlr3.Runtime.pdb
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\EntityFramework.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\obj\Debug\WebApplication4.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\obj\Debug\WebApplication4.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\user\Documents\GitHub\TubesTwitterAPI\src\WebApplication4\obj\Debug\WebApplication4.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\csc.exe
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\vbc.exe
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\VBCSCompiler.exe
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\WebApplication4.dll.config
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\WebApplication4.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\WebApplication4.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Antlr3.Runtime.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\EntityFramework.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\EntityFramework.SqlServer.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Hammock.ClientProfile.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Hammock.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Jmelosegui.Mvc.GoogleMap.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Newtonsoft.Json.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Owin.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.Helpers.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.Mvc.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.Optimization.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.Razor.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.WebPages.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.WebPages.Razor.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\TweetSharp.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\WebGrease.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Hammock.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Hammock.ClientProfile.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Newtonsoft.Json.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.Helpers.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.Mvc.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.Optimization.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.Razor.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.WebPages.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\System.Web.WebPages.Razor.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\TweetSharp.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Antlr3.Runtime.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\EntityFramework.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\EntityFramework.SqlServer.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\obj\Debug\WebApplication4.Properties.Resources.resources
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\obj\Debug\WebApplication4.csproj.GenerateResource.Cache
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\obj\Debug\WebApplication4.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Tubes 3\TubesTwitterAPI\StrAlgo3-14011\src\WebApplication4\obj\Debug\WebApplication4.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\csc.exe
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\System.Collections.Immutable.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\System.Reflection.Metadata.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\vbc.exe
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\VBCSCompiler.exe
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\roslyn\VBCSCompiler.exe.config
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\WebApplication4.dll.config
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\WebApplication4.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\WebApplication4.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Antlr3.Runtime.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\EntityFramework.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\EntityFramework.SqlServer.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Hammock.ClientProfile.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Hammock.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Jmelosegui.Mvc.GoogleMap.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.Google.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Newtonsoft.Json.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Owin.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.Helpers.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.Mvc.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.Optimization.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.Razor.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.WebPages.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.WebPages.Razor.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\TweetSharp.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\WebGrease.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Hammock.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Hammock.ClientProfile.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Newtonsoft.Json.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.Helpers.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.Mvc.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.Optimization.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.Razor.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.WebPages.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\System.Web.WebPages.Razor.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\TweetSharp.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Antlr3.Runtime.pdb
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\EntityFramework.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\EntityFramework.SqlServer.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.Google.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\obj\Debug\WebApplication4.Properties.Resources.resources
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\obj\Debug\WebApplication4.csproj.GenerateResource.Cache
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\obj\Debug\WebApplication4.dll
+D:\Teknik Informatika\Tugas Semester 4\Strategi Algoritma\Makalah\src\WebApplication4\obj\Debug\WebApplication4.pdb

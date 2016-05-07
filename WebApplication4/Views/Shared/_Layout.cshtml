@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Kicauan Bandung</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+        a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        img {
+            border: 0px;
+            vertical-align: top;
+        }
+
+        .tweet {
+            margin: 10px;
+            border-bottom: 1px solid #808080;
+        }
+
+        .tweet div.picture {
+            float: left;
+        }
+
+        .tweet div.info {
+            float: left;
+            margin-left: 5px;
+        }
+
+        .tweet div.info a.text {
+            color: #000000;
+        }
+
+        .tweet div.action a {
+            color: #00a5ff;
+        }
+
+        .tweet div.clear {
+            clear: both;
+        }
+    </style>
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("JavaScript", required: false)
+</head>
+<body>
+    <center>
+        <div style="width:73%;">
+            <div class="container">
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="~/Home/Index" class="btn btn-default" style="margin-left:10px;">Home</a></li>
+                        <li><a href="~/Home/Form" class="btn btn-default" style="margin-left:10px;">Form Pencarian</a></li>
+                        <li><a href="~/Home/Result" class="btn btn-default" style="margin-left:10px;">Hasil Pencarian</a></li>
+                        <li><a href="~/Home/About" class="btn btn-default" style="margin-left:10px;">Author</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </center>
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <center>
+                <footer>
+                    <p>&copy; @DateTime.Now.Year - Kicauan Bandung</p>
+                </footer>
+            </center>
+        </div>
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+</body>
+</html>
